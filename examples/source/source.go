@@ -158,5 +158,3 @@ func (m *MyInstance) NextBatch(pState sdk.PluginState, evts sdk.EventWriters) (i
 // func (m *MyPlugin) InitSchema() *sdk.SchemaInfo {
 //
 // }
-
-func main() {}
